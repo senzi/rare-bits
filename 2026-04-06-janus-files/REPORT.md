@@ -42,5 +42,5 @@ tombkeeper_coll2.png | c4 dd 67 d4 55 55 96 3e fa 43 14 90 24 2a a2 22
 ---
 
 ## 🔗 存证信息
-- **存证 Hash**: `[在 Push 后回填此 Commit SHA]`
+- **存证 Hash**: `[8c070d67609a47e1cbbe47c735222a4a62d737db]`
 - **验证状态**: Verified by `verify_collisions.py`
