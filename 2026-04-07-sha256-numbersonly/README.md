@@ -30,5 +30,5 @@ python verify_purity.py
 
 ## 🔗 存证信息
 - **首次发现 UTC 时间**: 2026-04-07
-- **存证 Hash**: `[在 Push 后回填此 Commit SHA]`
+- **存证 Hash**: `[439dd69228a4124ca9fa5f3bb3c222c27715224e]`
 - **OTS 证明**: 已关联 `input.txt.ots`
