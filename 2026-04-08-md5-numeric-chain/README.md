@@ -41,7 +41,7 @@ python verify_chain.py
 
 ## 🔗 存证信息
 - **首次发现 UTC 时间**: 2026-04-08
-- **存证 Hash**: `[在 Push 后回填此 Commit SHA]`
+- **存证 Hash**: `[93b28c9b418502934446298434f4626fdec39927]`
 - **验证状态**: Verified by `verify_chain.py` & OpenTimestamps
 ```
 

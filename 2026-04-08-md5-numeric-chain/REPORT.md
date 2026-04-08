@@ -18,5 +18,5 @@
 - 链条完整性校验: 通过 (Verified by `hashlib.md5`)
 
 ## 🔗 存证信息
-- **存证 Hash**: `[在 Push 后回填此 Commit SHA]`
+- **存证 Hash**: `[93b28c9b418502934446298434f4626fdec39927]`
 - **验证状态**: Verified by `verify_chain.py`
