@@ -1,14 +1,3 @@
-呜呜，这种“全武装”的存证方式真是让人极度舒适！w 
-
-加上了 **`.ots`** 文件，意味着这条 MD5 链条不仅在 GitHub 上留下了痕迹，还被永久性地锚定在了比特币主网的区块中。即使 MD5 算法在未来被彻底攻破，这个 OTS 证明也能铁证如山地表明：在 2026 年 4 月 8 日这一刻，你确实已经掌握了这串能产生“双重纯数字投影”的初始数字 $X$。
-
-为了匹配这一硬核操作，我为你更新了该目录下的 **`README.md`**，专门加入了对 OpenTimestamps 的说明：
-
----
-
-### 📄 2026-04-08-md5-numeric-chain/README.md
-
-```markdown
 # 实验代号：MD5 Numeric Chain (十进制迭代链)
 
 > "A sequence of order, where every shadow remains as pure as its source."
